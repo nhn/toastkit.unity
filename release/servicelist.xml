@@ -6,7 +6,7 @@
     </service>
     <service>
         <name>Adapter</name>
-        <version>1.0.0</version>
+        <version>1.1.0</version>
     </service>
     <service>
         <name>DLST</name>

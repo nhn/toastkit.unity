@@ -11,7 +11,7 @@ TOAST Kit Adapter는 하나의 공통화된 인터페이스를 제공해 여러 
 
 ### Unity 지원 버전
 
-* 5.6.6 이상
+* 2018.4.0 이상
 
 ### 지원 IdP
 
@@ -24,6 +24,7 @@ TOAST Kit Adapter는 하나의 공통화된 인터페이스를 제공해 여러 
         * 0.9.57
         * 0.9.63
         * 0.9.64
+        * 0.10.09
 * Facebook SDK for Unity 
     * [Download](https://developers.facebook.com/docs/unity/downloads)
     * Tested version
@@ -34,6 +35,11 @@ TOAST Kit Adapter는 하나의 공통화된 인터페이스를 제공해 여러 
         * 7.17.0
         * 7.17.1
         * 7.17.2
+        * 7.18.0
+        * 7.18.1
+        * 7.19.0
+        * 7.19.1
+        * 7.19.2
 
 ## 🔧 AdapterTool
 
@@ -112,14 +118,14 @@ private void SampleLogin(string idpName)
     
     switch (idpName)
     {
-        case ToastKitAdapterType.Idp.Facebook:
+        case ToastKitAdapterType.Idp.FACEBOOK:
         {
-            var facebookPermissionList = new List<string> { "public_profile", "email", "user_friends" };
+            var facebookPermissionList = new List<string> { "public_profile", "email" };
             additionalInfo = new Dictionary<string, object>();
             additionalInfo.Add("facebook_permissions", facebookPermissionList);
             break;
         }
-        case ToastKitAdapterType.Idp.Gpgs:
+        case ToastKitAdapterType.Idp.GPGS:
         default:
         {
             additionalInfo = null;
@@ -127,7 +133,7 @@ private void SampleLogin(string idpName)
         }
     }
     
-    ToastKitAdapter.Idp.Login(ToastKitAdapterType.Idp.Facebook, additionalInfo, (error) => 
+    ToastKitAdapter.Idp.Login(ToastKitAdapterType.Idp.FACEBOOK, additionalInfo, (error) => 
     {
         if (ToastKitAdapter.IsSuccess(error) == true)
         {
@@ -156,7 +162,7 @@ static void Logout(string idpName, Action<AdapterError> callback)
 ```cs
 private void SampleLogout()
 {
-    ToastKitAdapter.Idp.Logout(ToastKitAdapterType.Idp.Facebook, (error) => 
+    ToastKitAdapter.Idp.Logout(ToastKitAdapterType.Idp.FACEBOOK, (error) => 
     {
         if (ToastKitAdapter.IsSuccess(error) == true)
         {
@@ -217,7 +223,7 @@ static void GetAuthInfo(string idpName, Action<string> callback)
 ```cs
 private void SampleGetAuthInfo()
 {
-    ToastKitAdapter.Idp.GetAuthInfo(ToastKitAdapterType.Idp.Facebook, (facebookAuthInfo) => 
+    ToastKitAdapter.Idp.GetAuthInfo(ToastKitAdapterType.Idp.FACEBOOK, (facebookAuthInfo) => 
     {
         Debug.Log(string.Format("authInfo:{0}", facebookAuthInfo));
     });
@@ -245,7 +251,7 @@ static void GetProfile(string idpName, Action<Dictionary<string, object>> callba
 ```cs
 private void SampleGetProfile()
 {
-    ToastKitAdapter.Idp.GetProfile(ToastKitAdapterType.Idp.Facebook, (facebookProfile) =>
+    ToastKitAdapter.Idp.GetProfile(ToastKitAdapterType.Idp.FACEBOOK, (facebookProfile) =>
     {
         if (facebookProfile == null)
         {
@@ -300,7 +306,7 @@ static string GetUserId(string idpName)
 ```cs
 private void SampleGetUserId()
 {
-    var facebookUserId = ToastKitAdapter.Idp.GetUserId(ToastKitAdapterType.Idp.Facebook);
+    var facebookUserId = ToastKitAdapter.Idp.GetUserId(ToastKitAdapterType.Idp.FACEBOOK);
     Debug.Log(string.Format("facebookUserId:{0}", facebookUserId));
 }
 ```

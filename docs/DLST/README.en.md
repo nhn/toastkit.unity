@@ -11,7 +11,7 @@
 
 ### Supporting Unity Version
 
-* 5.6.6 or higher
+* 2018.4.0 or higher
 
 ### Supporting Platform 
 

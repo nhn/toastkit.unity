@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<info>
+<info version="1">
   <title>DLST</title>
   <status>publish</status>
   <description>$DESCRIPTION</description>
   <version>1.0.0</version>
   <dependencies>
     <unity>
-      <version>5.6.6+</version>
+      <version>2018.4.0+</version>
     </unity>
     <common>
       <version>1.0.0</version>
@@ -15,7 +15,7 @@
   </dependencies>
   <packageList>
       <package>
-          <path>toastkit_dlst_v1.0.0.unitypackage</path>
+          <path>toastkit_dlst_v1.1.0.unitypackage</path>
           <installPath>TOAST/Kit/DLST</installPath>
       </package>
   </packageList>

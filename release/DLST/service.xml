@@ -3,7 +3,7 @@
   <title>DLST</title>
   <status>publish</status>
   <description>$DESCRIPTION</description>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <dependencies>
     <unity>
       <version>2018.4.0+</version>
@@ -15,7 +15,7 @@
   </dependencies>
   <packageList>
       <package>
-          <path>toastkit_dlst_v1.1.0.unitypackage</path>
+          <path>toastkit_dlst_v1.0.1.unitypackage</path>
           <installPath>TOAST/Kit/DLST</installPath>
       </package>
   </packageList>

@@ -2,6 +2,18 @@
 
 🌏 [English](ReleaseNotes.en.md)
 
+## 1.0.1
+
+### Date
+
+* 2020.06.12
+
+### Updated
+
+* Unity 최소 지원 버전 2018.4.0으로 상향
+
+---
+
 ## 1.0.0
 
 ### Features

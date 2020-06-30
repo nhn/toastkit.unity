@@ -20,11 +20,6 @@
 
 * 2018.4.0 or higher
 
-### Supporting Platform 
-
-* Windows
-* macOS
-
 ### Supporting Library Formats 
 
 * jar

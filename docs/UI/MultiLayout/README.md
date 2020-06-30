@@ -2,6 +2,12 @@
 
 🌏 [English](README.en.md)
 
+## 🚩 목차
+
+* [개요](#개요)
+* [API](#-api)
+* [Sample](#-sample)
+
 ## 개요
 
 MultiLayout 컴포넌트는 UI 컴포넌트의 RectTransform 정보를 여러 개의 레이아웃으로 설정해 해상도, 화면 방향 등에 대응할 수 있도록 도와줍니다.
@@ -34,7 +40,7 @@ public void SetOrientation(ScreenOrientation orientataion)
 }
 ```
 
-## 🐾 Example
+## 🐾 Sample
 
 Assets/TOAST/Kit/UI/MultiLayout/Sample
 

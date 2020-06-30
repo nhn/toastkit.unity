@@ -2,6 +2,12 @@
 
 🌏 [한국어](README.md)
 
+## 🚩 Table of Contents
+
+* [Overview](#overview)
+* [API](#-api)
+* [Sample](#-sample)
+
 ## Overview
 
 The multi-layout component configures RectTransform data of UI component into many layouts so as to deal with resolution or orientation.
@@ -34,7 +40,7 @@ public void SetOrientation(ScreenOrientation orientataion)
 }
 ```
 
-## 🐾 Example
+## 🐾 Sample
 
 Assets/TOAST/Kit/UI/MultiLayout/Sample
 

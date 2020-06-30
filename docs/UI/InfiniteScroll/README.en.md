@@ -2,6 +2,12 @@
 
 🌏 [한국어](README.md)
 
+## 🚩 Table of Contents
+
+* [Overview](#overview)
+* [API](#-api)
+* [Sample](#-sample)
+
 ## Overview
 
 Scroll Rect (Scroll View) creates items to fit in content and allows them to be reusable.
@@ -102,7 +108,7 @@ The API is required to have Infinite Scroll deal with size changes when the size
 public void ResizeScrollView()
 ```
 
-## 🐾 Example
+## 🐾 Sample
 
 Assets/TOAST/Kit/UI/InfiniteScroll/Sample
 

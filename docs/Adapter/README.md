@@ -2,6 +2,13 @@
 
 🌏 [English](README.en.md)
 
+## 🚩 목차
+
+* [개요](#개요)
+* [스펙](#스펙)
+* [AdapterTool](#-adaptertool)
+* [API](#-api)
+
 ## 개요
 
 Facebook, Google 등의 IdP는 Unity로 개발 중인 애플리케이션에서 쉽고 빠르게 IdP의 기능을 사용할 수 있도록 Unity SDK를 제공하고 있습니다. 하지만 IdP마다 API가 서로 다르므로, 여러 IdP의 기능을 각각 구현 시 많은 학습과 시간이 필요합니다.

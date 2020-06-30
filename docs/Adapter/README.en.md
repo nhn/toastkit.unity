@@ -2,6 +2,13 @@
 
 🌏 [한국어](README.md)
 
+## 🚩 Table of Contents
+
+* [Overview](#overview)
+* [Specification](#specification)
+* [AdapterTool](#-adaptertool)
+* [API](#-api)
+
 ## Overview
 
 IdPs, such as Facebook or Google, provide Unity SDK to apply IdP functions faster and more easily in applications under development for Unity. However, as each IdP has different API, sufficient learning and time is required to implement each and every IdP function. 

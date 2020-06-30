@@ -2,6 +2,12 @@
 
 🌏 [한국어](README.md)
 
+## 🚩 Table of Contents
+
+* [Overview](#overview)
+* [Specification](#specification)
+* [Usage](#-usage)
+
 ## Overview
 
 Check the service list of TOAST Kit from TOAST Kit Manager, while you install, remove, or update services as you need.

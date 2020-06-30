@@ -2,6 +2,12 @@
 
 🌏 [English](README.en.md)
 
+## 🚩 목차
+
+* [개요](#개요)
+* [API](#-api)
+* [Sample](#-sample)
+
 ## 개요
 
 스크롤 사각 영역(Scroll Rect(Scroll View))을 사용할 때 뷰포트(Viewport) 크기에 맞게 아이템을 생성해 재사용할 수 있는 컴포넌트입니다.
@@ -102,7 +108,7 @@ ScrollView 크기가 변경되었을 때 Infinite Scroll에서 크기 변경을 
 public void ResizeScrollView()
 ```
 
-## 🐾 Example
+## 🐾 Sample
 
 Assets/TOAST/Kit/UI/InfiniteScroll/Sample
 

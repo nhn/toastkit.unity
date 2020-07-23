@@ -114,3 +114,7 @@ Assets/TOAST/Kit/UI/InfiniteScroll/Sample
 
 ![infinitescroll_sample](images/infinitescroll_sample.gif)
 
+---
+
+![dynamic_sample](images/dynamic_sample.gif)
+

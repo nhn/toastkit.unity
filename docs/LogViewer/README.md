@@ -97,7 +97,7 @@
         * Gesture Enable 설정
             * LogView를  활성화하는 제스처를 켜거나 끌 수 있습니다.
         * 이메일 설정
-            * TO: 받는 사람 이메일 주소
+            * To: 받는 사람 이메일 주소
             * User Name: 보내는 사람 이메일 주소
             * User Password: 보내는 사람 이메일 암호
             * Smtp Host: SMTP 호스트

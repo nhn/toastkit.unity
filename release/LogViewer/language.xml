@@ -28,22 +28,22 @@
     <string>
       <key>$IMAGE_CONSOLE</key>
       <language>
-        <ko>Unity Log를 화면에 보여줍니다</ko>
-        <en>Unity Log를 화면에 보여줍니다</en>
+        <ko>Unity Log를 화면에 보여줍니다.</ko>
+        <en>Show the Unity Log on the screen.</en>
       </language>
     </string>
     <string>
       <key>$IMAGE_FUNCTION</key>
       <language>
         <ko>개발자가 추가한 API를 LogViewer에서 호출할 수 있습니다.</ko>
-        <en>개발자가 추가한 API를 LogViewer에서 호출할 수 있습니다.</en>
+        <en>You can call APIs added by developers from LogViewer.</en>
       </language>
     </string>
     <string>
       <key>$IMAGE_SYSTEM</key>
       <language>
         <ko>시스템 정보를 확인할 수 있습니다.</ko>
-        <en>시스템 정보를 확인할 수 있습니다.</en>
+        <en>You can check the system information.</en>
       </language>
     </string>
   </list>

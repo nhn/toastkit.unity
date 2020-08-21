@@ -11,5 +11,40 @@
         <en>TOAST Kit LogViewer is a service that allows you to view logs in Edtior, Runtime.</en>
       </language>
     </string>
+    <string>
+      <key>$VIEW_DOCUMENTATION</key>
+      <language>
+        <ko>문서 보기</ko>
+        <en>View documentation</en>
+      </language>
+    </string>
+    <string>
+      <key>$VIEW_RELEASE_NOTES</key>
+      <language>
+        <ko>릴리스 정보</ko>
+        <en>Release notes</en>
+      </language>
+    </string>
+    <string>
+      <key>$IMAGE_CONSOLE</key>
+      <language>
+        <ko>Unity Log를 화면에 보여줍니다</ko>
+        <en>Unity Log를 화면에 보여줍니다</en>
+      </language>
+    </string>
+    <string>
+      <key>$IMAGE_FUNCTION</key>
+      <language>
+        <ko>개발자가 추가한 API를 LogViewer에서 호출할 수 있습니다.</ko>
+        <en>개발자가 추가한 API를 LogViewer에서 호출할 수 있습니다.</en>
+      </language>
+    </string>
+    <string>
+      <key>$IMAGE_SYSTEM</key>
+      <language>
+        <ko>시스템 정보를 확인할 수 있습니다.</ko>
+        <en>시스템 정보를 확인할 수 있습니다.</en>
+      </language>
+    </string>
   </list>
 </multilanguage>

@@ -48,10 +48,12 @@ Unity UI를 보다 효율적으로 사용할 수 있는 컴포넌트 제공.
 
 * [UI 서비스로 이동](docs/UI/README.md)
 
+### LogViewer
+
+* Unity Log와 디바이스 시스템 정보를 화면에서 확인할 수 있고, 개발자가 미리 등록한 API를 호출해 볼 수 있는 툴입니다.
+* [LogViewer 서비스로 이동](docs/LogViewer/README.md)
+
 ### WebView
 
 * 서비스 준비 중
 
-### LogViewer
-
-* 서비스 준비 중

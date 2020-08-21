@@ -17,7 +17,7 @@
 
 * Unity 최소 지원 버전 2018.4.0으로 상향
 * SharpZipLib.dll 제거
-* Multilanguage - 로드 시 시스템 언어가 포함되어 있으면 선택하도록 수정
+* Multilanguage - 해당 시스템 언어를 지원할 경우 시스템 언어를 보여주도록 설정
 
 ---
 

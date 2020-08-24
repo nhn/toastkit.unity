@@ -36,9 +36,8 @@
         * Search 
             *  Print out only such logs that contain input characters.
         * Ignore Case
-            *  View only such logs that contain input characters.
-                * Select: Case sensitive
-                * Clear: Case insensitive
+            * Select: Case sensitive
+            * Clear: Case insensitive
     * Play Time
         * Configure whether to display the time elapsed from the start of an app to when a log is created. 
         * Displays in seconds.
@@ -72,7 +71,7 @@
 ![function](./images/function.png)
 
 1. Cheat Key          
-    * Pass String entered with callback registered through the AddCheatKeyCallback API.
+    * Pass string entered with callback registered through the AddCheatKeyCallback API.
 2. Command
     * Call API registered by using the AddCommand API.
 

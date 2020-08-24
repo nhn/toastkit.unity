@@ -4,20 +4,20 @@
 
 ## 🚩 Table of Contents
 
-* [Introduction](#Introduction)
-* [Specifications](#Specifications)
+* [Overview](#Overview)
+* [Specification](#Specification)
 * [Features](#Features)
 * [Usage](#-Usage)
 
-## Introduction
+## Overview
 
 * LogViewer enables users to view Unity logs with device system information on the screen and to call APIs registered by developers.
 
-## Specifications
+## Specification
 
-### Supported Versions of Unity
+### Unity Support Version
 
-* 2018.4.0 or above
+* 2018.4.0 or higher
 
 ## Features
 

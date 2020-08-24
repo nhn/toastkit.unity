@@ -8,7 +8,7 @@
       <key>$DESCRIPTION</key>
       <language>
         <ko>TOAST Kit LogViewer는 Edtior뿐만 아니라 Runtime 시에도 로그를 볼 수 있는 서비스입니다.</ko>
-        <en>TOAST Kit LogViewer is a service that allows you to view logs in Edtior, Runtime.</en>
+        <en>LogViewer enables users to view Unity logs with device system information on the screen and to call APIs registered by developers.</en>
       </language>
     </string>
     <string>
@@ -29,21 +29,21 @@
       <key>$IMAGE_CONSOLE</key>
       <language>
         <ko>Unity Log를 화면에 보여줍니다.</ko>
-        <en>Show the Unity Log on the screen.</en>
+        <en>Display the Unity logs on the screen.</en>
       </language>
     </string>
     <string>
       <key>$IMAGE_FUNCTION</key>
       <language>
         <ko>개발자가 추가한 API를 LogViewer에서 호출할 수 있습니다.</ko>
-        <en>You can call APIs added by developers from LogViewer.</en>
+        <en>User can call APIs added by developers from LogViewer.</en>
       </language>
     </string>
     <string>
       <key>$IMAGE_SYSTEM</key>
       <language>
         <ko>시스템 정보를 확인할 수 있습니다.</ko>
-        <en>You can check the system information.</en>
+        <en>View the device system information.</en>
       </language>
     </string>
   </list>

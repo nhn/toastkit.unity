@@ -17,9 +17,10 @@
         <version>1.1.0</version>
     </service>
     <service>
-        <name>WebView</name>
+      <name>LogViewer</name>
+      <version>1.0.0</version>
     </service>
     <service>
-        <name>LogViewer</name>
+        <name>WebView</name>
     </service>
 </serviceList>

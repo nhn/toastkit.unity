@@ -47,10 +47,12 @@ Provide components to use Unity UI more efficiently.
 
 * [Go to UI service](docs/UI/README.en.md)
 
-### WebView
-
-* Preparing for Service
-
 ### LogViewer
+
+LogViewer enables users to view Unity logs with device system information on the screen and to call APIs registered by developers.
+
+* [Go to LogViewer](docs/LogViewer/README.en.md)
+
+### WebView
 
 * Preparing for Service

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<info version="2">
+<info version="3">
   <title>UI</title>
   <status>publish</status>
   <description>$DESCRIPTION</description>
@@ -8,10 +8,10 @@
     <unity>
       <version>2018.4.0+</version>
     </unity>
-    <common>
+    <Common>
       <version>1.0.0</version>
       <install>auto</install>
-    </common>
+    </Common>
   </dependencies>
   <packageList>
       <package>

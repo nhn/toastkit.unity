@@ -17,7 +17,7 @@ Check the service list of TOAST Kit from TOAST Kit Manager, while you install, r
 
 ### Unity Support Version
 
-* 5.6.6 or higher
+* 2018.4.0 or higher
 
 ## 🔨 Usage
 

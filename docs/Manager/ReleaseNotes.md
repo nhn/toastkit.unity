@@ -23,7 +23,6 @@
 
 ### Updated
 
-* TOAST Kit 서비스에 대해서 의존성 설정할 수 있도록 개선
 * Unity 최소 지원 버전 2018.4.0으로 상향
 * TOAST Kit Common v1.0.1 업데이트
 

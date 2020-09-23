@@ -11,7 +11,7 @@
 ### Fixed
 
 * Improved to check dependancies when deleting services.
-* UI Support for Unity v2019.3
+* UI Support for Unity 2019.3
 
 ---
 

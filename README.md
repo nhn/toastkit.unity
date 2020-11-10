@@ -54,6 +54,10 @@ Unity Log와 디바이스 시스템 정보를 화면에서 확인할 수 있고,
 
 * [LogViewer 서비스로 이동](docs/LogViewer/README.md)
 
+### Communicator
+
+* 서비스 준비 중
+
 ### WebView
 
 * 서비스 준비 중

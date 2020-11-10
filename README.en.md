@@ -53,6 +53,10 @@ LogViewer enables users to view Unity logs with device system information on the
 
 * [Go to LogViewer](docs/LogViewer/README.en.md)
 
+### Communicator
+
+* Preparing for Service
+
 ### WebView
 
 * Preparing for Service

@@ -4,6 +4,19 @@
 
 🌏 [한국어](README.md)
 
+<br><br>
+
+## TOAST Kit brand has been rebranded with Game Package Manager (GPM).<br>
+## Please update to use the better service.<br>
+## The existing service can be installed and used as a new version in GPM.<br>
+## [Go to GPM](https://github.com/nhn/gpm.unity)
+
+<br><br><br>
+
+---
+
+# Deprecated
+
 ## 🚩 Table of Contents
 
 * [Overview](#overview)
